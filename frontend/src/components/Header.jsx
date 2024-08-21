@@ -31,7 +31,7 @@ export const Header = () => {
           src={HeaderImage}
           alt="Heading Image"
         />
-      </div>
+      </div> 
 
       {/* some info if available */}
       {/* <div className="flex justify-center">
